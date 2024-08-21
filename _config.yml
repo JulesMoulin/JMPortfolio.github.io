@@ -1,0 +1,9 @@
+title: Jules Moulin
+description: text below image
+theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - cv.md
+  - projects.md
+  - contact.md
